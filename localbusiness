@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "The Top Maid",
+  "description": "The Top Maid is a professional House Cleaning Company offering thorough and reliable cleaning services in Spring, TX, and surrounding areas.",
+  "url": "https://thetopmaid.com/",
+  "logo": "https://thetopmaid.com/wp-content/uploads/2024/08/logo-1.webp",
+  "image": "https://thetopmaid.com/wp-content/uploads/2024/08/logo-1.webp",
+  "telephone": "+1-123-456-7890",
+  "priceRange": "$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 Main Street",
+    "addressLocality": "Spring",
+    "addressRegion": "TX",
+    "postalCode": "77380",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "30.123456",
+    "longitude": "-95.123456"
+  },
+  "openingHours": "Mo,Tu,We,Th,Fr,Sa 08:00-18:00",
+  "sameAs": [
+    "https://www.facebook.com/thetopmaid",
+    "https://www.instagram.com/thetopmaid",
+    "https://www.linkedin.com/company/thetopmaid"
+  ]
+}
+</script>
