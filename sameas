@@ -1,0 +1,13 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "The Top Maid",
+  "url": "https://thetopmaid.com/",
+  "sameAs": [
+    "https://www.facebook.com/thetopmaid",
+    "https://www.instagram.com/thetopmaid",
+    "https://www.linkedin.com/company/thetopmaid"
+  ]
+}
+</script>
