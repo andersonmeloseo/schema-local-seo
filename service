@@ -1,0 +1,24 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "House Cleaning Services",
+  "provider": {
+    "@type": "Organization",
+    "name": "The Top Maid",
+    "url": "https://thetopmaid.com/"
+  },
+  "areaServed": {
+    "@type": "Place",
+    "name": "Spring, The Woodlands, Conroe, Houston"
+  },
+  "description": "Looking for professional House Cleaning Services in Spring, TX? The Top Maid offers tailored cleaning solutions for a spotless home.",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://thetopmaid.com/house-cleaning-services-in-spring",
+    "priceCurrency": "USD",
+    "price": "100",
+    "availability": "https://schema.org/InStock"
+  }
+}
+</script>
