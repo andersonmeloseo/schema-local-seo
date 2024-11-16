@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in your House Cleaning Services in Spring, TX?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our House Cleaning Services in Spring, TX include dusting, vacuuming, kitchen cleaning, bathroom sanitization, and more."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you use eco-friendly cleaning products?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we use non-toxic, eco-friendly products to ensure a safe and healthy environment for your family."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book a cleaning service in Spring, TX?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can easily book our House Cleaning Services in Spring, TX by visiting our website or calling us at +1-123-456-7890."
+      }
+    }
+  ]
+}
+</script>
