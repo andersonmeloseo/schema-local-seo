@@ -1,0 +1,29 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "itemReviewed": {
+    "@type": "Service",
+    "name": "House Cleaning Services in Spring"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Emily Johnson"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "5",
+    "bestRating": "5"
+  },
+  "reviewBody": "The Top Maid provided exceptional cleaning services. My home in Spring has never looked better!"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "AggregateRating",
+  "ratingValue": "5",
+  "reviewCount": "273"
+}
+</script>
