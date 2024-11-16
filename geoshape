@@ -1,0 +1,14 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "GeoShape",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Spring",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+  },
+  "box": "30.102,-95.424 30.152,-95.384",
+  "polygon": "30.102,-95.424 30.152,-95.384 30.140,-95.392 30.110,-95.410"
+}
+</script>
